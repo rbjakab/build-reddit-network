@@ -1,0 +1,10 @@
+{
+    "size_limit": {
+        "thread": 10000,
+        "sub": 10000,
+        "user": 10000,
+        "visited": 10000
+    },
+    "last_fetched_days": 7,
+    "api_limit": "None"
+}
